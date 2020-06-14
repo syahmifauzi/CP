@@ -8,7 +8,7 @@
 #define nd second
 #define min(x, y) x < y ? x : y
 #define max(x, y) x > y ? x : y
-    using namespace std;
+using namespace std;
 typedef long long ll;
 
 string s, u;
