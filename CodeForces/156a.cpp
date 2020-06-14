@@ -1,3 +1,4 @@
+// brute force *1700
 #include <bits/stdc++.h>
 #define rep(i, a, n) for (int i = a; i < n; ++i)
 #define dbg(x) cerr << ">>> " << #x << " = " << x << "\n";
@@ -7,7 +8,7 @@
 #define nd second
 #define min(x, y) x < y ? x : y
 #define max(x, y) x > y ? x : y
-using namespace std;
+    using namespace std;
 typedef long long ll;
 
 string s, u;

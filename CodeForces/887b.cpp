@@ -1,3 +1,4 @@
+// brute force implementation *1300
 #include <bits/stdc++.h>
 #define rep(i, a, n) for (int i = a; i < n; ++i)
 #define dbg(x) cout << (#x) << " is " << x << "\n"
