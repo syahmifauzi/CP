@@ -20,7 +20,9 @@
    [(Source Code)](PLN2020/) |
    [(Problem Set)](PLN2020/problemset.pdf)
 4. ProSolve 2020
-   [(Source Code)](ProSolve/2020/)
+   [(Standings)](<https://github.com/ariffyasri/ProSolve/blob/master/Prosolve-9%202020%20(National)/scoreboard.pdf>) |
+   [(Source Code)](ProSolve/2020/) |
+   [(Problem Set)](<https://github.com/ariffyasri/ProSolve/blob/master/Prosolve-9%202020%20(National)/problem%20set.pdf>)
 
 ## Online Judges
 
