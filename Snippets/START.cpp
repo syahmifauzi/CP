@@ -17,6 +17,7 @@
 #define fill(a, x) rep(i, 0, sz(a)) a[i] = x;
 using namespace std;
 
+const int INF = 0x3f3f3f3f;
 typedef long long ll;
 typedef long double ld;
 typedef pair<ll ,ll> pll;
